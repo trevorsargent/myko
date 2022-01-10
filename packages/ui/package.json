@@ -1,0 +1,27 @@
+{
+  "name": "@myko/ui",
+  "version": "0.0.0",
+  "description": "browser specific tools for interacting with myko servers",
+  "author": "Trevor Sargent <trevor.a.sargent@gmail.com>",
+  "homepage": "https://github.com/trevorsargent/myko#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorsargent/myko.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/trevorsargent/myko/issues"
+  }
+}
