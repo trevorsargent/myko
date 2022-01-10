@@ -1,6 +1,6 @@
 {
   "name": "@myko/ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "browser specific tools for interacting with myko servers",
   "author": "Trevor Sargent <trevor.a.sargent@gmail.com>",
   "homepage": "https://github.com/trevorsargent/myko#readme",
