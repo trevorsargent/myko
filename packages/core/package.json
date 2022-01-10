@@ -1,0 +1,30 @@
+{
+  "name": "@myko/core",
+  "version": "0.0.0",
+  "description": "shared types and functionality",
+  "author": "Trevor Sargent <trevor.a.sargent@gmail.com>",
+  "homepage": "https://github.com/trevorsargent/myko#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorsargent/myko.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/trevorsargent/myko/issues"
+  }
+}
